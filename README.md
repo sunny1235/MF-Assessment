@@ -1,16 +1,12 @@
 # mf_assessment
 
-A new Flutter project.
+Develop this application as per assessment's problem statement.
+Table of Content
+1. State Management  - Riverpod
+2. Imp Packages - (flutter_riverpod, calendar_date_picker2)
+3. Clean Code
+4. Code Reuability
 
-## Getting Started
+In this application I have followed simple architecture for seperating different parts of project (eg. Screens, Common widgets, Controllers(Providers), Static Dummy Data) etc.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*(Problemt statement was not super clear to me I tried to connect with HRs regarding this but could not get concrete response from them in this So i have developed this as per my understaing from given problem statement).
